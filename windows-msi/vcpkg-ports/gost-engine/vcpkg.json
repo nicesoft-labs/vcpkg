@@ -1,0 +1,14 @@
+{
+  "name": "gost-engine",
+  "version-date": "2025-05-28",
+  "description": "GOST provider and engine for OpenSSL",
+  "homepage": "https://github.com/gost-engine/engine",
+  "license": "Apache-2.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "openssl"
+  ]
+}
