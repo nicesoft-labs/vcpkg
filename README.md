@@ -7,7 +7,8 @@ https://github.com/microsoft/vcpkg-docs/blob/main/vcpkg/readme/vcpkg-README.md
 
 [🌐 Read in a different language](https://learn.microsoft.com/locale/?target=https%3A%2F%2Flearn.microsoft.com%2Fvcpkg%2F)
 
-# vcpkg overview
+# vcpkg overview 
+add gost
 
 vcpkg is a free and open-source C/C++ package manager maintained by Microsoft
 and the C++ community. 
