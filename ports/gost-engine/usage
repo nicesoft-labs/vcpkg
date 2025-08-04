@@ -1,0 +1,2 @@
+The gost-engine port provides the OpenSSL GOST engine and provider modules.
+Refer to upstream documentation for enabling the engine in OpenSSL.

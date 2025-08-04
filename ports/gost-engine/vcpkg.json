@@ -1,0 +1,22 @@
+{
+  "name": "gost-engine",
+  "version": "3.0.3",
+  "description": "A reference implementation of the Russian GOST crypto algorithms for OpenSSL",
+  "homepage": "https://github.com/gost-engine/engine",
+  "license": "Apache-2.0",
+  "dependencies": [
+    "openssl",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-get-vars",
+      "host": true
+    }
+  ]
+}
